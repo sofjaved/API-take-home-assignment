@@ -1,0 +1,24 @@
+{
+  "name": "api-take-home-assignment",
+  "version": "1.0.0",
+  "description": "A take-home API exercise for a job interview process.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofjaved/API-take-home-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofjaved/API-take-home-assignment/issues"
+  },
+  "homepage": "https://github.com/sofjaved/API-take-home-assignment#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1"
+  }
+}
