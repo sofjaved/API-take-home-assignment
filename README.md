@@ -12,7 +12,7 @@ To test the script in app.js:
 
 - a server will run on port 3030.
 
-- type into the browser's address bar: http://localhost:3030/package/health/:packagename/:version with the requested package name and version, and you will recieve the requested data from the csv files in JSON format. For further testing, you may add data as needed to the cvs files in this repository.
+- type into the browser's address bar: http://localhost:3030/package/health/:packagename/:version with the requested package name and version, and you will recieve the requested data from the csv files in JSON format. For further testing, you may add data as needed to the csv files in this repository.
 - type into the browser's address bar: http://localhost:3030/package/releases/:packagename with the requested package name, and you will recieve the requested data from the NPM registry in JSON format.
 
 
