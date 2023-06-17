@@ -6,7 +6,7 @@ Feb 2, 2021 (2-5 pm EST)
 
 To test the script in app.js:
 
-- git clone https://github.com/sofjaved/Tidelift.git
+- git clone [https://github.com/sofjaved/API-take-home-assignment](https://github.com/sofjaved/API-take-home-assignment)
 - npm install
 - npm start
 
